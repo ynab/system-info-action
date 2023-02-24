@@ -4,7 +4,7 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "declaration": true,
-    "target": "es2015",
+    "target": "ESNext",
     "lib": ["esnext"],
     "strict": true,
     "strictNullChecks": true,
@@ -12,10 +12,7 @@
     "noFallthroughCasesInSwitch": true,
     "experimentalDecorators": true,
     "strictPropertyInitialization": false,
-    "typeRoots": [
-      "node_modules/@types",
-      "src/types"
-    ]
+    "typeRoots": ["node_modules/@types", "src/types"]
   },
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "lib", "dist", "test/**/*.ts"]

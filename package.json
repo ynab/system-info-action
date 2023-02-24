@@ -1,5 +1,5 @@
 {
-  "name": "system-info-action",  
+  "name": "system-info-action",
   "version": "1.0.0",
   "description": "A GitHub Action to get information about runner OS system",
   "main": "dist/index.js",
@@ -25,7 +25,7 @@
     "linux"
   ],
   "author": "Tadayuki Onishi",
-  "license": "MIT",  
+  "license": "MIT",
   "homepage": "https://github.com/ynab/system-info-action",
   "devDependencies": {
     "@types/getos": "latest",
@@ -48,7 +48,6 @@
   "dependencies": {
     "@actions/core": "latest",
     "getos": "latest",
-    "macos-release": "latest",
     "win-version": "latest",
     "windows-release": "latest"
   },

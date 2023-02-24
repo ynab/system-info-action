@@ -1,4 +1,4 @@
-import macosRelease from "macos-release";
+import macosRelease from "./macosRelease";
 import os from "os";
 import getWinVersion from "win-version";
 import windowsRelase from "windows-release";
