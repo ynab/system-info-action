@@ -1,3 +1,8 @@
 # Development
 
-To publish a new version, run `npm run package`, commit, push, create a new release tag, and then publish the release as the latest for Marketplace listing.
+To publish a new version,
+- Change `version` in package.json
+- Run `npm run package`
+- Commit, push
+- Create a new release tag in GitHub
+- Publish the release as the latest for Marketplace listing
