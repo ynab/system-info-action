@@ -1,7 +1,7 @@
 const os = require("os");
 
 const nameMap = new Map([
-  [23, ["Sequoia", "15"]],
+  [24, ["Sequoia", "15"]],
   [23, ["Sonoma", "14"]],
   [22, ["Ventura", "13"]],
   [21, ["Monterey", "12"]],
