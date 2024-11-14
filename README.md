@@ -21,7 +21,7 @@ Name|Description
 ## Example usage
 
 ```yaml
-  - uses: ynab/system-info-action@v1.1
+  - uses: ynab/system-info-action@v1.2
     id: system-info
   - uses: actions/cache@v3
     with:
