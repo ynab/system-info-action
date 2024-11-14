@@ -2,7 +2,7 @@
 
 This action provides GitHub Actions runner OS information
 
-This repository was forked from https://github.com/ynab/system-info-action. Please consider [sponsoring](https://github.com/sponsors/kenchan0130) the original author.
+This repository was forked from https://github.com/ynab/system-info-action to support new versions of macOS. Please consider [sponsoring](https://github.com/sponsors/kenchan0130) the original author.
 
 ## Outputs
 
